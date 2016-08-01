@@ -97,7 +97,7 @@
     margin-top: 15px;
     box-shadow: 1px 1px 4px $gray-light;
     border-color: $gray-lighter;
-    & li > a {
+    &-menu li > a {
     transition: color 0.3s ease;
     font-weight: lighter !important;
     color: $gray-dark !important;
